@@ -1,0 +1,39 @@
+.STYLE9 {color: #006600;font-weight: bold;}
+.STYLE4 {color: #ffffff;font-weight: bold;}
+.STYLE10 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.STYLE11 {
+	color: #780175;
+	font-weight: bold;
+}
+.STYLE12 {color: #FFFFFF}
+.STYLE14 {font-size: 30px}
+body  {
+	
+}
+td tr
+{
+FONT-SIZE: 12px;
+}
+a{ font-size:12px; color:#000000; text-decoration:none}
+#fenye a{ font-size:12px; color:#000000; text-decoration:none}
+.newsline TD {
+	LINE-HEIGHT: 25px; border:0px; BORDER-BOTTOM: #c9c9c9 1px dashed
+}
+.newsline TD A:link {
+	COLOR: #000
+}
+.newsline TD A:visited {
+	COLOR: #000
+}
+.newsline TD A:hover {
+	COLOR: #000
+}
+.newsline TD A:active {
+	COLOR: #000
+}
+
+
+

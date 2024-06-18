@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Web/image.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/images/qkjs.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/js/function.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/js/onclock.JS" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/js/popup.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/js/popups.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/control/MainCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/CommDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/Info.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/PageManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/SetChar.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

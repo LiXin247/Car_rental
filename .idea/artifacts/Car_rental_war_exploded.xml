@@ -1,0 +1,38 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Car_rental:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Car_rental_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Car_rental" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/jxl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/msbase.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/msutil.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/sqljdbc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/sqljdbc4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.ejb.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.jms.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/mssqlserver.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.servlet.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.resource.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/jspsmartupload.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/zxing-1.6-core.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/json_simple-1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/commons-io-1.3.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.annotation.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.persistence.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.servlet.jsp.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.transaction.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Web/WEB-INF/lib/mysql-connector-java-8.0.29.jar" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Car_rental/web/Web" />
+    </root>
+  </artifact>
+</component>

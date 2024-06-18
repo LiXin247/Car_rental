@@ -14,8 +14,6 @@
   </head>
 <%
   String id="";
-  
- 
    %>
 <script language="javascript">
 
@@ -51,7 +49,7 @@ new CommDAO().insert(request,response,"cheliangleibiexinxi",ext,true,false,"");
 
   <body >
  <form  action="cheliangleibiexinxi_add.jsp?f=f&id=<%=id%>"  method="post" name="form1"  onsubmit="return checkform();">
-  添加车辆类别信息:
+  添加车辆类别信息111111111:
   <br><br>
    <table width="100%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#00FFFF" style="border-collapse:collapse">
 		<tr><td  width="200">车辆类别：</td><td><input name='cheliangleibie' type='text' id='cheliangleibie' value='' onblur='checkform()' style='border:solid 1px #000000; color:#666666' />&nbsp;*<label id='clabelcheliangleibie' /></td></tr>

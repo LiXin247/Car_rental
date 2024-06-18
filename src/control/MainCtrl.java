@@ -32,7 +32,7 @@ import util.Info;
 
 import dao.CommDAO;
 
-public class MainCtrl extends HttpServlet {
+public class MainCtrl extends HttpServlet {  //111
 	public void destroy() {
 		super.destroy(); // Just puts "destroy" string in log
 		// Put your code here
